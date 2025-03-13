@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 
 class BookController extends Controller
 {
-    // Show book list
     public function index()
     {
         $books = Book::all(); // Fetch all books
