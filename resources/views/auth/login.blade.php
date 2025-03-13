@@ -56,7 +56,7 @@
     </a>
 </div>
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-<span><b>Login with Google</b></span>
+<span><b>Login with Google</b></span> 
 <span><b>Login with Facebook</b></span>
 </div>
 
