@@ -45,7 +45,6 @@
                 {{ __('Log in') }}
             </x-primary-button>
         </div>
-        
         <br>
         <div style="display: flex; justify-content: center; gap: 100px; align-items: center;">
     <a href="{{ route('social.redirect', 'google') }}" style="background-color: #DB4437; color: white; padding: 10px 15px; border-radius: 50%; display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; text-decoration: none;">
